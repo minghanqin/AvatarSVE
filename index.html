@@ -139,8 +139,8 @@
       <img src="./content/pipeline.png" class="center" />
       <p>Given a portrait video, We first track the global expression parameters &varepsilon; using 3DMM. 
         After the pre-processing, given the sampled 3D points p<sub>o</sub> in observation space, we apply the 
-        generation network G to extend the global expression parameters $\varepsilon$ with the spatial positional 
-        features of each position p<sub>o</sub> in 3D space. Then, through a deformation network $D$, we 
+        generation network G to extend the global expression parameters &varepsilon; with the spatial positional 
+        features of each position p<sub>o</sub> in 3D space. Then, through a deformation network D, we 
         transform p<sub>o</sub> from the observation space to the p<sub>c</sub> in the canonical space 
         conditioned on &varepsilon;'. Subsequently, we use &varepsilon;' conditioned NeuS to predict 
         the SDF values and color c corresponding to p<sub>c</sub>. Finally, we obtain the rendered 
