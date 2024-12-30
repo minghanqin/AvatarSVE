@@ -3,7 +3,8 @@ Official implementation of the paper "High-Fidelity 3D Head Avatars Reconstructi
 
 [Webpage](https://minghanqin.github.io/AvatarSVE/) | [Full Paper](https://arxiv.org/abs/2310.06275) | [Video](https://www.youtube.com/watch?v=dPgAa-6Kt8Q) |<br>
 
-# Coming soon...
+# Important Notice:
+Due to existing copyright restrictions and legal considerations, we are currently unable to open source the code for this project.
 
   <section class="section" id="BibTeX">
     <div class="container is-max-desktop content">
